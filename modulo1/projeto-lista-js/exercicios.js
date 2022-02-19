@@ -16,6 +16,15 @@ function imprimeMensagem()
   console.log(mensagem)
 }
 
+
+
+
+
+
+
+
+
+
 // EXERCÍCIOS PARA FAZER ------------------------------------------------------------------
 
 // EXERCÍCIO 01
