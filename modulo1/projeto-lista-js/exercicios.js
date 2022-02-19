@@ -19,8 +19,7 @@ function imprimeMensagem()
 // EXERCÍCIOS PARA FAZER ------------------------------------------------------------------
 
 // EXERCÍCIO 01
-function calculaAreaRetangulo() 
-{
+function calculaAreaRetangulo() {
   // implemente sua lógica aqui
   const alturaRetangulo = Number(prompt('Qual a altura do reangulo?'))
   const  larguraRetangulo = Number(prompt('Qual a largura do reangulo?'))
@@ -28,10 +27,8 @@ function calculaAreaRetangulo()
   console.log(areaDoRetangulo);
 }
 
-
 // EXERCÍCIO 02
-function imprimeIdade() 
-{
+function imprimeIdade() {
   // implemente sua lógica aqui
   const  anoAtual = Number(prompt("Digite o ano atual, por favor?"))
   const anoNascimento = Number(prompt("Em que ano você nasceu?"))
@@ -40,8 +37,7 @@ function imprimeIdade()
 }
 
 // EXERCÍCIO 03
-function calculaIMC(peso, altura) 
-{
+function calculaIMC(peso, altura) {
   // implemente sua lógica aqui
   const  peso = Number(prompt("Digite o ano atual, por favor?"))
   const altura = Number(prompt("Em que ano você nasceu?"))
@@ -50,14 +46,12 @@ function calculaIMC(peso, altura)
 
 
 // EXERCÍCIO 04
-  function imprimeInformacoesUsuario(){
+  function imprimeInformacoesUsuario() {
   const nome = prompt("Digite seu nome")
   const idade = prompt("Digite sua idade")
   const email = prompt("Digite seu e-mail")
   console.log(`Meu nome é ${nome}, tenho ${idade} anos, e o meu email é ${email}.`);
 }
-
-
 
 // EXERCÍCIO 05
 function imprimeTresCoresFavoritas() {
@@ -74,7 +68,6 @@ function retornaStringEmMaiuscula(string) {
    const string = "oaiAiaoaiaoiaoaA"
    return string.toUpperCase()
 }
-
 
 // EXERCÍCIO 07
 function calculaIngressosEspetaculo(custo, valorIngresso) {
