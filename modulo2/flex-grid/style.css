@@ -1,0 +1,38 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: rgb(211, 47, 151);
+    width: 100%;
+    align-items: stretch;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+
+#Confeitaria{
+    font-size: 180%;
+    font-weight: bolder;
+}
+#botao-login{
+    background-color: rgb(255, 255, 255);
+    display: flexbox;
+}
+.icones{
+  width: 1%;
+}
+
+#bolinho{
+    width: 3%;
+}
+
+#coluna-esquerda{
+background-color: violet;
+display: flexbox;
+}

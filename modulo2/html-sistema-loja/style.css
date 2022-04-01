@@ -1,0 +1,33 @@
+body{
+    background-image: url(../html-sistema-loja/img/Livros.jpg);
+    
+}
+
+#Bem_vindo{
+    text-align: center;
+    background-color: initial;
+    color: rgb(255, 255, 255);
+    outline-color: black;
+    font-size: 100px;
+    margin-top: 0px;
+    margin-bottom: 0%;
+
+}
+
+#Slogan{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin-bottom: 0px; 
+}
+#div-percorrer-site{
+    background-color: rgb(212, 233, 233);
+    text-align: center;
+    font-size: 150%;
+}
+
+#frase-site{
+    font-style: oblique;
+    text-align: center;
+    font-size: 150%;
+}
