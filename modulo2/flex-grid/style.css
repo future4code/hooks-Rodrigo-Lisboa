@@ -1,0 +1,86 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: rgb(211, 47, 151);
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;   
+}
+
+
+
+#Confeitaria{
+    font-size: 200%;
+    font-weight: bolder;
+}
+
+
+
+#botao-login{
+    background-color: rgb(255, 255, 255);
+    display: flexbox;
+    padding: 5px 10px;  /*Altura/Comprimento*/
+}
+
+
+
+.icones{
+    display: flex;
+    width: 9%;
+}
+
+#bolinho{
+    width: 5%;
+}
+
+
+
+#menu{
+background-color: rgb(255, 1, 255);
+width: 16%;
+height: 600px;
+}
+
+
+
+.menus-esquerda{
+background-color: rgb(255, 1, 255);
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+width: 100%;
+padding: 10px 10px;
+}
+
+#card-bolos{
+    width: 20%;
+    box-shadow: 2px 2px 5px darkgray;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-bolos{
+    display: flex;
+    width: 9%;
+    flex-direction: column;
+    
+}
+
+#footer{
+    background-color: rgb(211, 47, 151);
+    font-size: 25px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
