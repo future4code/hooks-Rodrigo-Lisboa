@@ -29,7 +29,7 @@ const PostFooter = styled.div`
   justify-content: space-between;
 `
 
-const UserPhoto = styled.img`     //Foto do usuário 
+const UserPhoto = styled.img`     
   height: 30px;
   width: 30px;
   margin-right: 10px;
